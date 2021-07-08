@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with DataStructures & Algo
 - 💬 Ask me about Related to technical stuff
 - 📫 How to reach me:
-- ![image](https://user-images.githubusercontent.com/67740644/124900239-802c3480-dffe-11eb-9c28-9bce58ee894e.png) [Instagram](https://www.instagram.com/sasikalyan__tagore__/)
+-  ![image](https://user-images.githubusercontent.com/67740644/124901149-5f181380-dfff-11eb-8ac8-8597735e0252.png) [Instagram](https://www.instagram.com/sasikalyan__tagore__/)
 - 😄 Pronouns: Tagore
 - ⚡ Fun fact: Hello World😋
