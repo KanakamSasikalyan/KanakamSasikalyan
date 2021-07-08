@@ -1,7 +1,7 @@
 ### Hello ,I'm Sasikalyan 👋
 
-- 🔭 I’m currently working on **[OpenSource Project on Python]
-- 🌱 I’m currently learning **Java Programming
+- 🔭 I’m currently working on #OpenSource Project on Python]
+- 🌱 I’m currently learning #Java Programming
 - 👯 I’m looking to collaborate on 🤷‍♂️
 - 🤔 I’m looking for help with **DataStructures & Algorithms
 - 💬 Ask me about **Related to any Technical Stuff
