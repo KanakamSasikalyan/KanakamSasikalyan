@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with **DataStructures & Algorithms**
 - 💬 Ask me about **Related to any Technical Stuff**
 - 📫 How to reach me:
-- ![image](https://user-images.githubusercontent.com/67740644/124902590-b36fc300-e000-11eb-9b37-49e5eca031fa.png)
+- ![image](https://user-images.githubusercontent.com/67740644/124904941-24b07580-e003-11eb-8c16-de23988a23d7.png)
 - **Connect With Me 👇 :**
 - 👉[LinkedIn](https://www.linkedin.com/in/sasikalyan-kanakam-857b40197/)
 - 👉[Instagram](https://www.instagram.com/sasikalyan__tagore__/)
