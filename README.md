@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on 👉 **OpenSource Project on Python**
 - 🌱 I’m currently learning 👉 **Java Programming**☕
 - 🗑️ Technologies : **Amazon Web Services, Git&GitHub, Microsoft Azure, Linux, Ubuntu**
+- 💻 Programming Languages : C, C++, Python, Java, C#, Shell Scripting..
 - 👯 I’m looking to collaborate on 🤷‍♂️
 - 🤔 I’m looking for help with 👉 **DataStructures & Algorithms**
 - 💬 Ask me about 👉 **Related to any Technical Stuff**
