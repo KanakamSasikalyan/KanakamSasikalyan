@@ -7,25 +7,25 @@
 
 <p align="left"> <a href="https://twitter.com/@iamsasikalyan" target="blank"><img src="https://img.shields.io/twitter/follow/@iamsasikalyan?logo=twitter&style=for-the-badge" alt="@iamsasikalyan" /></a> </p>
 
-- 🔭 I’m currently working on [Algebra(Community)](None)
+- 🔭 I’m currently working on [Blogging Site Development](None)
 
-- 🌱 I’m currently learning **Core Java, Web Development**
+- 🌱 I’m currently learning **Core Java, Web Development, Machine Learning, Blockchain Technology**
 
 - 👯 I’m looking to collaborate on [Open Source](None)
 
-- 🤝 I’m looking for help with [Startup Idea](None)
+- 🤝 I’m looking for help with [~](None)
 
 - 👨‍💻 All of my projects are available at [https://github.com/KanakamSasikalyan](https://github.com/KanakamSasikalyan)
 
-- 📝 I regularly write articles on [None](None)
+- 📝 I regularly write stories/blog posts on [Motivation, Social Issues](None)
 
 - 💬 Ask me about **Any technology stuff**
 
 - 📫 How to reach me **kanakamsasikalyan1@gmail.com**
 
-- 📄 Know about my experiences [None](None)
+- 📄 Know about my experiences [!](None)
 
-- ⚡ Fun fact **Oops!**
+- ⚡ Best Hashtag **#What's happenning?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
