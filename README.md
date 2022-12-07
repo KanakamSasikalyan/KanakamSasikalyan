@@ -27,7 +27,9 @@
 
 - ⚡ Best Hashtag **#What's happenning?**
 
-![Think Different](https://foomandoonian.files.wordpress.com/2011/10/jobs-banner-021.png)
+(https://foomandoonian.files.wordpress.com/2011/10/jobs-banner-021.png)
+![image](https://user-images.githubusercontent.com/67740644/206192347-0bf47f11-f96a-471a-b077-e9878d622968.png)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
