@@ -27,6 +27,8 @@
 
 - ⚡ Best Hashtag **#What's happenning?**
 
+![Think Different](https://foomandoonian.files.wordpress.com/2011/10/jobs-banner-021.png)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@iamsasikalyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@iamsasikalyan" height="30" width="40" /></a>
@@ -44,5 +46,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanakamsasikalyan&" alt="kanakamsasikalyan" /></p>
 
-![Think Different](https://foomandoonian.files.wordpress.com/2011/10/jobs-banner-021.png)
-![image](https://user-images.githubusercontent.com/67740644/206191593-6cf63fd7-58e1-459c-99f5-75fd2cd08dd5.png)
