@@ -45,4 +45,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanakamsasikalyan&" alt="kanakamsasikalyan" /></p>
 
 ![Think Different](https://foomandoonian.files.wordpress.com/2011/10/jobs-banner-021.png)
-![Love it](https://www.discoverypublisher.com/site/wp-content/uploads/2014/09/swami-vivekananda-header.jpg)
+![image](https://user-images.githubusercontent.com/67740644/206191593-6cf63fd7-58e1-459c-99f5-75fd2cd08dd5.png)
