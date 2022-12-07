@@ -44,4 +44,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanakamsasikalyan&" alt="kanakamsasikalyan" /></p>
 
-https://foomandoonian.files.wordpress.com/2011/10/jobs-banner-021.png
+![Think Different!](https://foomandoonian.files.wordpress.com/2011/10/jobs-banner-021.png)
