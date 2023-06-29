@@ -1,50 +1,33 @@
-<h1 align="center">Hi 👋, I'm K.Sasikalyan</h1>
-<h3 align="center">Computer Science Student, Andhra Pradesh, India 🇮🇳</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanakamsasikalyan&label=Profile%20views&color=0e75b6&style=flat" alt="kanakamsasikalyan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanakamsasikalyan" alt="kanakamsasikalyan" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@iamsasikalyan" target="blank"><img src="https://img.shields.io/twitter/follow/@iamsasikalyan?logo=twitter&style=for-the-badge" alt="@iamsasikalyan" /></a> </p>
-
-- 🔭 I’m currently working on [Blogging Site Development](None)
-
-- 🌱 I’m currently learning **Core Java, Web Development, Machine Learning, Blockchain Technology**
-
-- 👯 I’m looking to collaborate on [Open Source](None)
-
-- 🤝 I’m looking for help with [~](None)
-
-- 👨‍💻 All of my projects are available at [https://github.com/KanakamSasikalyan](https://github.com/KanakamSasikalyan)
-
-- 📝 I regularly write stories/blog posts on [Motivation, Social Issues](None)
-
-- 💬 Ask me about **Any technology stuff**
-
-- 📫 How to reach me **kanakamsasikalyan1@gmail.com**
-
-- 📄 Know about my experiences [!](None)
-
-- ⚡ Best Hashtag **#What's happenning?**
-
-(https://foomandoonian.files.wordpress.com/2011/10/jobs-banner-021.png)
-![image](https://user-images.githubusercontent.com/67740644/206192613-407c7081-78ad-499b-a112-dbe1814435a6.png)
+# 💫 About Me:
+>>Computer programming enthusiast and startup founder.<br>>>Passionate about enhancing programming skills in Data Structures and Algorithms.<br>>>Competitive programmer focused on improving problem-solving skills.<br>>>Proficient in Java, C, C++, Python, and various other tools and technologies.<br>>>Dedicated to continuous learning and staying up-to-date with the latest advancements.<br>>>Strong knowledge of data structures and algorithms, enabling efficient problem-solving.<br>>>Experienced in working with startups and bringing innovative ideas to life.<br>>>Skilled in utilizing programming languages to create efficient and scalable solutions.<br>>>Enthusiastic collaborator, able to work effectively within teams to achieve common goals.<br>>>Avid learner, always seeking new challenges to expand programming expertise.<br>>>Committed to delivering high-quality code and ensuring software reliability.<br>>>Motivated by solving complex problems and finding elegant solutions.<br>>>Proactive and adaptable, capable of quickly grasping new concepts and technologies.<br>>>Excellent problem analysis and debugging skills, leading to effective troubleshooting.<br>>>Effective communicator, able to convey technical concepts to both technical and non-technical audiences.
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@iamsasikalyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@iamsasikalyan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sasikalyan-kanakam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sasikalyan-kanakam-857b40197" height="30" width="40" /></a>
-<a href="https://instagram.com/sasikalyan11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sasikalyan__tagore__" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sasikalyan1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sasikalyan1" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sasikalyan11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sasikalyan11) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Sasikalyan1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sasikalyan11) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KanakamSasikalyan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KanakamSasikalyan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KanakamSasikalyan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanakamsasikalyan&show_icons=true&locale=en&layout=compact" alt="kanakamsasikalyan" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KanakamSasikalyan&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanakamsasikalyan&show_icons=true&locale=en" alt="kanakamsasikalyan" /></p>
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=sasikalyan11)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanakamsasikalyan&" alt="kanakamsasikalyan" /></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=KanakamSasikalyan&limit=5&theme=matrix&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=KanakamSasikalyan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
